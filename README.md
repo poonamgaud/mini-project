@@ -1,1 +1,1 @@
-# mini-project
+# 707-ML_Project
